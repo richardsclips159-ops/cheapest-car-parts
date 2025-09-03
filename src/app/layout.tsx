@@ -6,5 +6,4 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-screen">{children}</body>
     </html>
   )
-
 }
